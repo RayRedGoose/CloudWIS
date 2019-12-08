@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match the snapshot with all data passed in correctly 1`] = `
+<main>
+  <section
+    className="menu-panel"
+  >
+    <BackIcon
+      toggleActiveState={[MockFunction]}
+    />
+    <SearchForm
+      changeCity={[MockFunction]}
+      fetchWeatherData={[MockFunction]}
+      toggleActiveState={[MockFunction]}
+    />
+    <SearchHistory
+      changeCity={[MockFunction]}
+      fetchWeatherData={[MockFunction]}
+      searchHistory={
+        Array [
+          "Denver",
+          "Phoenix",
+        ]
+      }
+      toggleActiveState={[MockFunction]}
+    />
+  </section>
+  <section
+    className="darkscreen"
+  />
+</main>
+`;

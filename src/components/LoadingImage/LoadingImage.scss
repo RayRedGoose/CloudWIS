@@ -1,0 +1,45 @@
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 42vh; left: 42vw;
+  width: fit-content; height: fit-content;
+  div {
+    position: absolute;
+    z-index: 1;
+    background-color: #0f1a20;
+    border-radius: 60%;
+    width: 160px; height: 115px;
+  }
+}
+
+.cloud {
+  width: 180px;
+  position: absolute;
+  z-index: 10;
+  fill: #017E91;
+  animation: colors 5s linear infinite;
+}
+
+.sun {
+  width: 100px;
+  position: absolute;
+  bottom: -10px; left: 0;
+  z-index: -2;
+  fill: #E8CF5F;
+  animation: rotator 7s linear infinite;
+}
+
+@keyframes rotator {
+  from {transform: rotate(0deg);}
+  to {transform: rotate(360deg);}
+}
+
+@keyframes colors {
+  0% {fill: #017E91;}
+  25% {fill: #C7F9F0;}
+  50% {fill: #017E91;}
+  75% {fill: #004A68;}
+  100% {fill: #017E91;}
+}

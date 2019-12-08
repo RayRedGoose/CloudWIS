@@ -1,0 +1,20 @@
+.history-item {
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: 700;
+  list-style-type: none;
+  background-color: #fff;
+  border: 2px solid #0D324D;
+  border-radius: 20px;
+  color: #0D324D;
+  width: fit-content;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding: 0.5em 2em;
+  &:hover {
+    transform: scale(1.1);
+  }
+  &:active {
+    transform: scale(0.9);
+  }
+}

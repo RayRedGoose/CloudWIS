@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match the snapshot if it has day type 1`] = `
+<section
+  className="weather-row"
+>
+  <h2>
+    Today
+  </h2>
+  <main>
+    <WeatherItem
+      blockType="day"
+      key="temp"
+      number={15}
+      typeAbbr="temp"
+      weekDay=""
+    />
+  </main>
+</section>
+`;
+
+exports[`should match the snapshot if it has fiveDays type 1`] = `
+<section
+  className="weather-row"
+>
+  <h2>
+    5-Days
+  </h2>
+  <main>
+    <WeatherItem
+      blockType="fiveDays"
+      key="Dec,01"
+      number={15}
+      typeAbbr="temp"
+      weekDay="Dec,01"
+    />
+    <WeatherItem
+      blockType="fiveDays"
+      key="Dec,02"
+      number={25}
+      typeAbbr="temp"
+      weekDay="Dec,02"
+    />
+  </main>
+</section>
+`;

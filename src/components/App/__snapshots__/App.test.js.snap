@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should match the snapshot with all data fetched 1`] = `
+<main
+  className="app"
+>
+  <AppHeader />
+  <Board
+    changeCity={[Function]}
+    currentCity="Denver"
+    fetchWeatherData={[Function]}
+    searchHistory={
+      Array [
+        "Denver",
+        "Phoenix",
+        "Houston",
+      ]
+    }
+    weatherData={
+      Object {
+        "today": null,
+        "week": null,
+      }
+    }
+  />
+</main>
+`;
+
+exports[`App should match the snapshot with no data fetched 1`] = `
+<main
+  className="app"
+>
+  <AppHeader />
+  <LoadingImage />
+</main>
+`;

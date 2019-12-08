@@ -1,0 +1,46 @@
+.city-search__form {
+  display: flex;
+  flex-direction: column;
+  label {
+    font-size: 24px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #0D324D;
+    margin-right: 80px;
+  }
+  input {
+    border-radius: 10px;
+    font-size: 18px;
+    padding: 0.4em;
+    padding-left: 20px;
+    margin: 40px 0 20px;
+  }
+
+}
+
+.button-wrapper {
+  display: flex;
+  justify-content: space-between;
+  button {
+    cursor: pointer;
+    border-radius: 20px;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 0.4em 2em;
+    width: fit-content;
+    &:last-child {
+      background-color: lighten(#0D324D, 10%);
+      color: #fff;
+    }
+    &:first-child {
+      background-color: #fff;
+      color: #0D324D;
+    }
+    &:hover {
+      background-color: lighten(#0D324D, 15%);
+      color: #fff;
+    }
+    &:active {
+      background-color: darken(#0D324D, 5%);
+    }
+  }
+}

@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match the snapshot with all data passed in correctly 1`] = `
+<section
+  className="weather-image"
+>
+  <div />
+</section>
+`;
+
+exports[`should match the snapshot with rain data passed 1`] = `
+<section
+  className="weather-image"
+>
+  <RainyBackground />
+</section>
+`;
+
+exports[`should match the snapshot with snow data passed 1`] = `
+<section
+  className="weather-image"
+>
+  <SnowyBackground />
+</section>
+`;

@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Menu should match the snapshot if it's clicked 1`] = `
+<header
+  className="side-menu"
+>
+  <SideMenu
+    changeCity={[MockFunction]}
+    fetchWeatherData={[MockFunction]}
+    searchHistory={
+      Array [
+        "Denver",
+        "Phoenix",
+      ]
+    }
+    toggleActiveState={[Function]}
+  />
+</header>
+`;
+
+exports[`Menu should match the snapshot if it's not clicked 1`] = `
+<header
+  className="side-menu"
+>
+  <MenuIcon
+    toggleActiveState={[Function]}
+  />
+</header>
+`;

@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchForm should match the snapshot if it's not clicked 1`] = `
+<form
+  className="city-search__form"
+>
+  <label
+    htmlFor="city-search__input"
+  >
+    Find city
+  </label>
+  <input
+    id="city-search__input"
+    onChange={[Function]}
+    onKeyPress={[Function]}
+    placeholder="Enter city here"
+    type="text"
+    value=""
+  />
+  <div
+    className="button-wrapper"
+  >
+    <button
+      id="clear-button"
+      onClick={[Function]}
+    >
+      Clear
+    </button>
+    <button
+      id="submit-button"
+      onClick={[Function]}
+    >
+      Search
+    </button>
+  </div>
+</form>
+`;

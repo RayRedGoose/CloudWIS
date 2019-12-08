@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match the snapshot with all data passed in correctly 1`] = `
+<header
+  className="app-header"
+>
+  <h1>
+    <a
+      href="https://github.com/RayRedGoose"
+    >
+      CloudWIS
+    </a>
+  </h1>
+</header>
+`;

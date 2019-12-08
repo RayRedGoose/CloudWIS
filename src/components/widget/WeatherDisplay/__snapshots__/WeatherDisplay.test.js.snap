@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match the snapshot with all data passed in correctly 1`] = `
+<section
+  className="weather-display"
+>
+  <h1
+    name="Denver"
+  >
+    Denver
+  </h1>
+  <WeatherRow
+    key="day"
+    title="Today"
+    type="day"
+    weatherData={
+      Object {
+        "desc": "current weather info",
+      }
+    }
+  />
+  <WeatherRow
+    key="fiveDays"
+    title="5 Day Forecast"
+    type="fiveDays"
+    weatherData={
+      Object {
+        "desc": "five days weather info",
+      }
+    }
+  />
+</section>
+`;

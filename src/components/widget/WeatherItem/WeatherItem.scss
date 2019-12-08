@@ -1,0 +1,58 @@
+.weather-item {
+  background-color: #FFFFFF;
+  border-radius: 20px;
+  text-align: center;
+  padding: 20px;
+  margin-right: 10px;
+  min-width: 125px;
+  p {
+    text-transform: uppercase;
+    &:first-child {
+      padding-bottom: 5px;
+      border-bottom: 1px solid #000;
+      margin-bottom: 10px;
+    }
+  }
+}
+
+.number {
+  font-size: 48px;
+  margin-bottom: 10px;
+  color: #0D324D;
+  &:after {
+    font-size: 28px;
+    font-weight: 400;
+  }
+}
+
+.temp {
+  &:after {
+    content: "\00B0 F";
+  }
+}
+
+.wind {
+  &:after {
+    content: "mph";
+    text-transform: lowercase;
+  }
+}
+
+.humidity {
+  &:after {
+    content: "%";
+    text-transform: lowercase;
+  }
+}
+
+.visibility {
+  &:after {
+    content: "mi";
+    text-transform: lowercase;
+  }
+}
+
+.weather-item__desc,
+.header-day {
+  display: none;
+}

@@ -1,0 +1,14 @@
+.back-icon {
+  cursor: pointer;
+  fill: #fff;
+  height: 25px;
+  margin: 20px;
+  position: absolute;
+  top: 0; right: 0;
+  &:hover {
+    transform: scale(1.1);
+  }
+  &:active {
+    transform: scale(0.9);
+  }
+}

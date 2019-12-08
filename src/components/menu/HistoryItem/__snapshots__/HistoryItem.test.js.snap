@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HistoryItem should match the snapshot with all data passed in correctly 1`] = `
+<li
+  className="history-item"
+  name="Denver"
+  onClick={[Function]}
+  onKeyPress={[Function]}
+  role="button"
+  tabIndex="0"
+>
+  Denver
+</li>
+`;

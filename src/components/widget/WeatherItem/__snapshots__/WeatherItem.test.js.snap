@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match the snapshot with all data passed in correctly 1`] = `
+<section
+  className="weather-item weather-item__Clouds"
+>
+  <p
+    className="header-day"
+  />
+  <p
+    className="number temp"
+  >
+     
+    15
+  </p>
+  <p>
+    Clouds
+  </p>
+</section>
+`;
