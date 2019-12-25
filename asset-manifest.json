@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CloudWIS/static/css/main.f314467b.chunk.css",
+    "main.js": "/CloudWIS/static/js/main.62cf164f.chunk.js",
+    "main.js.map": "/CloudWIS/static/js/main.62cf164f.chunk.js.map",
+    "runtime-main.js": "/CloudWIS/static/js/runtime-main.0991662b.js",
+    "runtime-main.js.map": "/CloudWIS/static/js/runtime-main.0991662b.js.map",
+    "static/js/2.45455278.chunk.js": "/CloudWIS/static/js/2.45455278.chunk.js",
+    "static/js/2.45455278.chunk.js.map": "/CloudWIS/static/js/2.45455278.chunk.js.map",
+    "index.html": "/CloudWIS/index.html",
+    "precache-manifest.fa74d9566f05888adc079452be370a8c.js": "/CloudWIS/precache-manifest.fa74d9566f05888adc079452be370a8c.js",
+    "service-worker.js": "/CloudWIS/service-worker.js",
+    "static/css/main.f314467b.chunk.css.map": "/CloudWIS/static/css/main.f314467b.chunk.css.map",
+    "static/media/WeatherImage.scss": "/CloudWIS/static/media/bg.861450be.svg",
+    "static/media/App.scss": "/CloudWIS/static/media/logo.466ae145.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0991662b.js",
+    "static/js/2.45455278.chunk.js",
+    "static/css/main.f314467b.chunk.css",
+    "static/js/main.62cf164f.chunk.js"
+  ]
+}
