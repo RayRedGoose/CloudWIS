@@ -4,6 +4,9 @@ Design and code:
 
 [Raisa Primerova](https://github.com/RayRedGoose)
 
+[Deployed app:](https://rayredgoose.github.io/CloudWIS)
+NOTE! For deployed app example weather data was used. To see current fetched data - clone down repo and start with `npm start`
+
 ## Overview
 
 **CloudWIS** or Cloud weather information system is web-app for displaying current weather in chosen US city. Current weather information contains today's info of temperature, wind speed, humidity and visibility and 5days weather prediction about temperature and weather state. By default current city is Denver, CO but user can try to choose any US city for displaying. Also app keep user data (current city and search history) and restore it after page was refresh.
