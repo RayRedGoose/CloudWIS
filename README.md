@@ -4,7 +4,8 @@ Design and code:
 
 [Raisa Primerova](https://github.com/RayRedGoose)
 
-[Deployed app:](https://rayredgoose.github.io/CloudWIS)
+Deployed app: [click here to see](https://rayredgoose.github.io/CloudWIS)
+
 NOTE! For deployed app example weather data was used. To see current fetched data - clone down repo and start with `npm start`
 
 ## Overview
