@@ -6,7 +6,8 @@ Design and code:
 
 Deployed app: [click here to see](https://rayredgoose.github.io/CloudWIS)
 
-NOTE! For deployed app limited requests API key was used. 
+NOTE! For deployed app limited requests API key was used.
+To see correct working app clone done and use your own api key in apiCalls file.
 
 ## Overview
 
