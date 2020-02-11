@@ -2,6 +2,7 @@
   "name": "weather_board",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://RayRedGoose.github.io/CloudWIS",
   "dependencies": {
     "node-sass": "^4.13.0",
     "react": "^16.12.0",
@@ -12,7 +13,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "npm run build&&gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -32,7 +34,8 @@
   "devDependencies": {
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.15.1",
-    "enzyme-to-json": "^3.4.3"
+    "enzyme-to-json": "^3.4.3",
+    "gh-pages": "^2.1.1"
   },
   "jest": {
     "snapshotSerializers": [
