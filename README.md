@@ -6,7 +6,7 @@ Design and code:
 
 Deployed app: [click here to see](https://rayredgoose.github.io/CloudWIS)
 
-NOTE! For deployed app example weather data was used. To see current fetched data - clone down repo and start with `npm start`
+NOTE! For deployed app limited requests API key was used. 
 
 ## Overview
 
