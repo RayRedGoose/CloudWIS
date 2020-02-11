@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "853cc0b1db4af0eefa9290775e45a977",
+    "revision": "e8ac5f8731e8f71cd2e38dbe1b9486a0",
     "url": "/CloudWIS/index.html"
   },
   {
-    "revision": "d0b01372f04facd1f93d",
-    "url": "/CloudWIS/static/css/main.247e666c.chunk.css"
+    "revision": "af0ff374b87d6cde8032",
+    "url": "/CloudWIS/static/css/main.0305728c.chunk.css"
   },
   {
     "revision": "bc63dc57ae86de0e4e6c",
     "url": "/CloudWIS/static/js/2.45455278.chunk.js"
   },
   {
-    "revision": "d0b01372f04facd1f93d",
-    "url": "/CloudWIS/static/js/main.1fab40f9.chunk.js"
+    "revision": "af0ff374b87d6cde8032",
+    "url": "/CloudWIS/static/js/main.62cf164f.chunk.js"
   },
   {
     "revision": "85cf1ab9d5c3dfbcf257",
