@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/CloudWIS/static/css/main.a3950ba0.chunk.css",
-    "main.js": "/CloudWIS/static/js/main.4ed75fa6.chunk.js",
-    "main.js.map": "/CloudWIS/static/js/main.4ed75fa6.chunk.js.map",
+    "main.css": "/CloudWIS/static/css/main.53b488bf.chunk.css",
+    "main.js": "/CloudWIS/static/js/main.0e9b003c.chunk.js",
+    "main.js.map": "/CloudWIS/static/js/main.0e9b003c.chunk.js.map",
     "runtime-main.js": "/CloudWIS/static/js/runtime-main.0991662b.js",
     "runtime-main.js.map": "/CloudWIS/static/js/runtime-main.0991662b.js.map",
     "static/js/2.45455278.chunk.js": "/CloudWIS/static/js/2.45455278.chunk.js",
     "static/js/2.45455278.chunk.js.map": "/CloudWIS/static/js/2.45455278.chunk.js.map",
     "index.html": "/CloudWIS/index.html",
-    "precache-manifest.a183e1f4f2c65eeb35b16a5f3ae93cb6.js": "/CloudWIS/precache-manifest.a183e1f4f2c65eeb35b16a5f3ae93cb6.js",
+    "precache-manifest.92963da3d5d58ee188ac3ab6369d1df7.js": "/CloudWIS/precache-manifest.92963da3d5d58ee188ac3ab6369d1df7.js",
     "service-worker.js": "/CloudWIS/service-worker.js",
-    "static/css/main.a3950ba0.chunk.css.map": "/CloudWIS/static/css/main.a3950ba0.chunk.css.map",
+    "static/css/main.53b488bf.chunk.css.map": "/CloudWIS/static/css/main.53b488bf.chunk.css.map",
     "static/media/WeatherImage.scss": "/CloudWIS/static/media/bg.861450be.svg",
     "static/media/App.scss": "/CloudWIS/static/media/logo.466ae145.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0991662b.js",
     "static/js/2.45455278.chunk.js",
-    "static/css/main.a3950ba0.chunk.css",
-    "static/js/main.4ed75fa6.chunk.js"
+    "static/css/main.53b488bf.chunk.css",
+    "static/js/main.0e9b003c.chunk.js"
   ]
 }
