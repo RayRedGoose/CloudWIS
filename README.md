@@ -4,7 +4,17 @@ Design and code:
 
 [Raisa Primerova](https://github.com/RayRedGoose)
 
+## Setup
+
 Deployed app: [click here to see](https://rayredgoose.github.io/CloudWIS)
+
+Download to local machine:
+
+- `clone` the repo to your local machine
+
+- run `npm install` to download all necessary dependencies
+
+- run `npm start` to run the server
 
 NOTE! For deployed app limited requests API key was used.
 To see correct working app clone done and use your own api key in apiCalls file.
@@ -36,10 +46,4 @@ Test with:
 **Loading image**
 ![Loading](./screenshots/loading.gif)
 
-## Setup
 
-- `clone` the repo to your local machine
-
-- run `npm install` to download all necessary dependencies
-
-- run `npm start` to run the server
